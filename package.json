@@ -1,0 +1,14 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.8.4"
+  }
+}
